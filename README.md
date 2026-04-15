@@ -1,4 +1,5 @@
 Minimalist Login Page
+
 Una página de inicio de sesión moderna y responsiva con un diseño estético y minimalista.
 
 Vista previa
@@ -21,10 +22,12 @@ Instalación y Uso
     ```bash
     git clone [https://github.com/UserCristian28/Login-1-.git]
     ```
+    
 2.  Abre el archivo:
     Simplemente abre `index.html` en tu navegador preferido.
 
 Ajustes Personalizados
+
 Para cambiar el tamaño o la posición de la imagen de fondo, dirígete al archivo CSS y modifica la sección `.wrapper`:
 
 ```css
