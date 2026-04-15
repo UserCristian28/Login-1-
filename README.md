@@ -2,7 +2,8 @@ Minimalist Login Page
 Una página de inicio de sesión moderna y responsiva con un diseño estético y minimalista.
 
 Vista previa
-<img width="411" height="278" alt="Fondo" src="https://github.com/user-attachments/assets/9d0d6fea-1684-4199-8960-c2af23217283" />
+
+<img width="490" height="484" alt="Captura de pantalla 2026-04-14 233912" src="https://github.com/user-attachments/assets/6f8204f0-361e-4983-bb31-f39974c373d6" />
 
 
 Características
